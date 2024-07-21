@@ -1,0 +1,5 @@
+pip install docxtpl
+pip install openpyxl
+pip install pymysql - данная зависимость является свзующим звеном между python и m
+pip install cryptography
+pip install deepdiff
